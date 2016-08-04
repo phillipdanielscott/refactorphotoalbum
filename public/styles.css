@@ -1,0 +1,24 @@
+.cosplayContainer{
+  background-color: black;
+}
+.photoContainer{
+  width: 76%;
+  display: inline-block;
+  float: right;
+  clear: right;
+}
+.thing{
+  color: white;
+  display: inline-block;
+  display: inline-block;
+  width: 41%;
+  padding: 0px;
+  text-align: center;
+}
+h1{
+  color: white;
+text-align: center;
+}
+body{
+  background-color: black;
+}

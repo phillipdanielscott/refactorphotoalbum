@@ -2,7 +2,7 @@
 
 var gulp = require('gulp');
 var watch = require('gulp-watch');
-var sass = require('gulp-sass');
+// var sass = require('gulp-sass');
 var browserify = require('gulp-browserify');
 
 gulp.task('default', ['html', 'js', 'css']);
@@ -10,8 +10,11 @@ gulp.task('default', ['html', 'js', 'css']);
 
 //html
 gulp.task('html', function(){
-  gulp.src('./templates/*.html')
-    .pipe(gulp.dest('./public/templates'))
+  // gulp.src('./templates/*.html')
+  //   .pipe(gulp.dest('./public/templates'))
+    gulp.src('./templates/*.html').pipe(gulp.dest('./public/templates'));
+    // Also copy over the templates directory.
+
 
   return gulp.src('./index.html')
     .pipe(gulp.dest('./public'));
@@ -28,7 +31,7 @@ gulp.task('js', function(){
 //css
 gulp.task('css', function(){
   gulp.src('./scss/styles.scss')
-    .pipe(sass())
+    // .pipe(sass())
     .pipe(gulp.dest('./public/css'));
 })
 

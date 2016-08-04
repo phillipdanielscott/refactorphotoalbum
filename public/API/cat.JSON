@@ -1,0 +1,33 @@
+
+[{
+"id": 0,
+"title": "cat 1",
+"attended": true,
+"image":"./images/businesscatONE.jpg"
+},
+{
+"id": 1,
+"title": "cat 2",
+"attended": false,
+"image":"./images/businesscatTWO.jpg"
+},
+{
+"id": 2,
+"title": "cat 3",
+"attended": false,
+"image":"./images/catz.jpg"
+
+},
+{
+"id": 3,
+"title": "cat 4",
+"attended": false,
+"image":"./images/cattable.jpg"
+
+},
+{
+"id": 4,
+"title": "cat 5",
+"attended": false,
+"image":"./images/operacat.jpg"
+}]

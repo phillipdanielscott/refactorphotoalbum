@@ -1,0 +1,38 @@
+
+[{
+"id": 0,
+"title": "HALO",
+"description": "cool ranch dorritos and mountain dew time",
+"attended": true,
+"image":"./images/halo.jpg"
+},
+{
+"id": 1,
+"title": "games",
+"description": "we all love them",
+"attended": false,
+"image":"./images/cod.jpg"
+},
+{
+"id": 2,
+"title": "super-heroes",
+"description": "spider-man is the best",
+"attended": false,
+"image":"./images/superHeroWonderWoman.jpg"
+
+},
+{
+"id": 3,
+"title": "bad cosplay",
+"description": "just go home",
+"attended": false,
+"image":"./images/android.jpg"
+
+},
+{
+"id": 4,
+"title": "cats",
+"description": "why not?",
+"attended": false,
+"image":"./images/operacat.jpg"
+}]

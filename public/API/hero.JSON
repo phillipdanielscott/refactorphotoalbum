@@ -1,0 +1,38 @@
+
+[{
+"id": 0,
+"title": "HERO #1",
+"description": "breaking bad",
+"attended": true,
+"image":"./images/breakingbad.jpg"
+},
+{
+"id": 1,
+"title": "HERO #2",
+"description": "futurama",
+"attended": false,
+"image":"./images/futurama.jpg"
+},
+{
+"id": 2,
+"title": "HERO #3",
+"description": "misty?",
+"attended": false,
+"image":"./images/misty.jpg"
+
+},
+{
+"id": 3,
+"title": "HERO #4",
+"description": "man of iron",
+"attended": false,
+"image":"./images/ironman.jpg"
+
+},
+{
+"id": 4,
+"title": "HERO #5",
+"description": "want fries with that?",
+"attended": false,
+"image":"./images/ronald.jpg"
+}]

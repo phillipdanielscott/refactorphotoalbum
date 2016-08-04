@@ -1,0 +1,38 @@
+
+[{
+"id": 0,
+"title": "god of war",
+"description": "god of war is awesome",
+"attended": true,
+"image":"./images/godofWar.jpg"
+},
+{
+"id": 1,
+"title": "ninja turtles",
+"description": "we all loved them as a kid",
+"attended": false,
+"image":"./images/ninjaturtles.jpg"
+},
+{
+"id": 2,
+"title": "prince of persia",
+"description": "prince of persia!",
+"attended": false,
+"image":"./images/princeofpersia.jpg"
+
+},
+{
+"id": 3,
+"title": "vageta",
+"description": "an oldie",
+"attended": false,
+"image":"./images/vageta.jpg"
+
+},
+{
+"id": 4,
+"title": "joker",
+"description": "why so serious?",
+"attended": false,
+"image":"./images/joker.jpg"
+}]

@@ -1,0 +1,38 @@
+
+[{
+"id": 0,
+"title": "HALO #1",
+"description": "top halo guy",
+"attended": true,
+"image":"./images/halo.jpg"
+},
+{
+"id": 1,
+"title": "HALO #2",
+"description": "second best",
+"attended": false,
+"image":"./images/halo2.jpg"
+},
+{
+"id": 2,
+"title": "HALO #2",
+"description": "close 3rd",
+"attended": false,
+"image":"./images/halo3.jpg"
+
+},
+{
+"id": 3,
+"title": "HALO #3",
+"description": "pretty good",
+"attended": false,
+"image":"./images/halo4.jpg"
+
+},
+{
+"id": 4,
+"title": "HALO #4",
+"description": "last",
+"attended": false,
+"image":"./images/halo5.jpg"
+}]

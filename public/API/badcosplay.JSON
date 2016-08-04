@@ -1,0 +1,38 @@
+
+[{
+"id": 0,
+"title": "horrible",
+"description": "nice try",
+"attended": true,
+"image":"./images/robotman.jpg"
+},
+{
+"id": 1,
+"title": "very bad",
+"description": "re model it ",
+"attended": false,
+"image":"./images/frozen.jpg"
+},
+{
+"id": 2,
+"title": "sooo bad",
+"description": "this is very bad",
+"attended": false,
+"image":"./images/duke.jpg"
+
+},
+{
+"id": 3,
+"title": "what the heck?",
+"description": "just go home",
+"attended": false,
+"image":"./images/hulkcosplay.jpg"
+
+},
+{
+"id": 4,
+"title": "....",
+"description": "why not?",
+"attended": false,
+"image":"./images/sonic.jpg"
+}]
